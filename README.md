@@ -1,4 +1,4 @@
-# posthog-marathon-mobile
+# Posthog : Boston marathon & Mobile apps users analysis
 
 This project analyzes mobile app usage data and marathon runner data to gain insights into user behavior and athletic performance.  We leverage PostHog for user behavior analytics and explore potential correlations between app usage and marathon results.
 
